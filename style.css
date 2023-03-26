@@ -78,6 +78,10 @@
     width: 65%;
 }
 
+.resume-subsection2 p {
+    font-size: 18px;
+}
+
 a {
     text-decoration: none;
     color: blue;
@@ -99,4 +103,8 @@ hr {
     height: 2px;
     background-color: #D7C6F3;
     border: none;
+}
+
+li {
+    font-size: 18px;
 }
